@@ -1,0 +1,11 @@
+swagger-spec-validator==3.0.3
+openapi-spec-validator==0.5.7
+requests==2.31.0
+pydantic<2.0.0
+streamlit==1.28.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+PyYAML==6.0.1
+httpx
+groq
+python-dotenv
